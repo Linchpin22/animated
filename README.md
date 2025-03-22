@@ -21,8 +21,8 @@ This project is a small demonstration of a **Hero Section** with modern animatio
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/hero-section-project.git
-   cd hero-section-project
+   git clone [https://github.com/yourusername/hero-section-project.git](https://github.com/Linchpin22/animated)
+   cd cct
    ```
 
 2. **Install dependencies:**
